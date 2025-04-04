@@ -67,7 +67,7 @@ export function Footer() {
             transition={{ delay: 0.3, duration: 0.5 }}
             className="text-gray-600 dark:text-gray-400 text-sm mt-4 md:mt-0"
           >
-            Made with ❤️ for engineers
+            Made with ❤️ by Aliya Neda 
           </motion.p>
         </div>
       </div>
