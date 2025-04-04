@@ -55,9 +55,9 @@ export function Navbar() {
           <a href="#pricing" className="text-sm font-medium hover:text-primary transition-colors">
           Pricing
           </a>
-          <a href="https://github.com/divyansharma001/CrackIt" className="text-sm font-medium hover:text-primary transition-colors">
+          {/* <a href="https://github.com/divyansharma001/CrackIt" className="text-sm font-medium hover:text-primary transition-colors">
             Star this project
-          </a>
+          </a> */}
         </nav>
 
         <div className="flex items-center gap-4">
