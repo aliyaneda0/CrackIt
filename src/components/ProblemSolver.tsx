@@ -210,7 +210,7 @@ export function ProblemSolver() {
                   <h3 className="font-medium">Conversation</h3>
                   <div className="flex items-center space-x-2">
                     <a
-                      href="https://github.com/divyansharma001"
+                      href="https://github.com/aliyaneda0"
                       target="_blank"
                       rel="noopener noreferrer"
                       className="flex items-center gap-2 text-sm text-gray-600 dark:text-gray-300 hover:text-blue-600 dark:hover:text-blue-400 transition-colors"
